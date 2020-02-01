@@ -5,4 +5,4 @@ To add them to your Kibana, go to Management -> Kibana/Saved Objects and click I
 
 Includes two visualisations on is a fixed version for the Browser Breakdown.
 
-The second one is a Aggregation which container.name gets the most entries, so which container gets the most files accessed.
+The second one is a aggregation which container.name gets the most entries, so which container has the most files accessed.
