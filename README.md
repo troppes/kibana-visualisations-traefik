@@ -7,4 +7,4 @@ Includes two visualisations on is a fixed version for the Browser Breakdown.
 
 The second one is a aggregation which traefik.access.frontend_name gets the most entries, so which container has the most files accessed.
 
-Link to the complete guide: https://reitz.dev/2020/02/simple-guide-to-set-up-traefik-2-0-with-filebeat/
+Link to the complete guide: https://reitz.dev/#/blog/1
